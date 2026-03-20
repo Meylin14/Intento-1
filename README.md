@@ -1,2 +1,2 @@
 # Intento-1
-Intento de aprendizaje, si alguien de casualidad llega aquí... ígnorElo
+Intento de aprendizaje, si alguien de casualidad llega aquí... ígnorelo
